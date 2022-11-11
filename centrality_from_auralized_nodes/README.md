@@ -25,7 +25,7 @@ may open new directions in arts, competing with network visualization.
 }
 ```
 
-This folder contains a collection of Jupiter notebooks for experimenting with network aurlization, training centrlaity inference from auralized nodes, and evaluating saved model checkpoints on random graphs. Notebooks containing a centrality (Betweenness, CLoseness, Degree, Eigenvecor) in their names are used for training. Playground is a playground as its name suggests. Checkpoints currently stored here are those that were used for producing results presented at the [Complex Networks conference](https://complexnetworks.org/) 2022 edition. 
+This folder contains a collection of Jupiter notebooks for experimenting with network aurlization, training centrlaity inference from auralized nodes, and evaluating saved model checkpoints on random graphs. Notebooks containing a centrality (Betweenness, Closeness, Degree, Eigenvecor) in their names are used for training. Playground is a playground as its name suggests. Checkpoints currently stored here are those that were used for producing results presented at the [Complex Networks conference](https://complexnetworks.org/) 2022 edition. 
 
 Contributions are appreciated. Especially extracting classes and auxuliary functions from the notebooks into a Python module and building a pip library. 
 It would also be nice to have more sound classificiation models here :) 
