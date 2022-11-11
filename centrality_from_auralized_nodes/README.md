@@ -12,6 +12,7 @@ nodes are plausible in most cases. Auralization of the network topology
 may open new directions in arts, competing with network visualization.
 
 [Article](https://github.com/puzis/centrality-learning/raw/main/centrality_from_auralized_nodes/Can_one_hear_the_position_of_nodes.pdf)
+ | 
 [Slides](https://github.com/puzis/centrality-learning/raw/main/centrality_from_auralized_nodes/Can_one_hear_the_position_of_nodes_slides.pdf)
 
 ```
