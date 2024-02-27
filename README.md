@@ -26,4 +26,14 @@ Currently two methods are available:
   year={2022},
 }
 
+@article{li2023centrality,
+  title={Centrality Learning: Auralization and Route Fitting},
+  author={Li, Xin and Bachar, Liav and Puzis, Rami},
+  journal={Entropy},
+  volume={25},
+  number={8},
+  pages={1115},
+  year={2023},
+  publisher={MDPI}
+}
 ```
